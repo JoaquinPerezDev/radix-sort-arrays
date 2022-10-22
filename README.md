@@ -10,6 +10,8 @@ digit and sort them, then repeat the process for every other digit that exists i
 array. Given the input array below, the maximum number of digits found is 4, so the algorithm
 will loop through 4 times in order for it to sort from start to finish.
 
+More on the topic of radix sort can be found in this video: https://youtu.be/XiuSW_mEn7g
+
 
 Sample input: array = [8762, 654, 3008, 345, 87, 65, 234, 12, 2]<br>
 Sample output: sorted = [2, 12, 65, 87, 234, 345, 654, 3008, 8762]<br>
